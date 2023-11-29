@@ -3,3 +3,9 @@ numpy
 pandas
 pydeck
 streamlit
+umap-learn
+pandas
+plotly
+scikit-learn
+translators
+matplotlib
